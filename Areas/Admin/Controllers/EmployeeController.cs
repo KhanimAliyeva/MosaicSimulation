@@ -211,7 +211,7 @@ namespace Simulation_16.Areas.Admin.Controllers
             {
                 Text = b.Name,
                 Value = b.Id.ToString()
-            }).ToString();
+            }).ToList();
 
             ViewBag.Branches = branches;
         }

@@ -252,3 +252,4 @@ D:\visual studio 2025\Simulation-16\obj\Debug\net8.0\refint\Simulation-16.dll
 D:\visual studio 2025\Simulation-16\obj\Debug\net8.0\Simulation-16.pdb
 D:\visual studio 2025\Simulation-16\obj\Debug\net8.0\Simulation-16.genruntimeconfig.cache
 D:\visual studio 2025\Simulation-16\obj\Debug\net8.0\ref\Simulation-16.dll
+D:\visual studio 2025\Simulation-16\obj\Debug\net8.0\Simulation-16.sourcelink.json

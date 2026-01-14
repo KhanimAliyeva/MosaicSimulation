@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\visual studio 2025\\Simulation-16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,54 +58,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T07:50:30.322Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T07:41:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
               "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-14T05:37:31.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T05:07:55.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Helpers\\ExtensionMethods.cs",
-              "RelativeDocumentMoniker": "Helpers\\ExtensionMethods.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Helpers\\ExtensionMethods.cs",
-              "RelativeToolTip": "Helpers\\ExtensionMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T04:31:03.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -113,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
@@ -125,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -137,20 +141,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAkwHQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAALoAAAAAAAAAAAAkwMUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T03:45:32.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Helpers\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Helpers\\ExtensionMethods.cs",
+              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Helpers\\ExtensionMethods.cs",
+              "RelativeToolTip": "Helpers\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T04:31:03.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EmployeeUpdateVM.cs",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
@@ -158,12 +174,11 @@
               "RelativeToolTip": "ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T03:41:12.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T03:41:12.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Simulation-16.csproj",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Simulation-16.csproj",
               "RelativeDocumentMoniker": "Simulation-16.csproj",
@@ -175,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EmployeeCreateVm.cs",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
@@ -187,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "EmployeeGetVM.cs",
               "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
