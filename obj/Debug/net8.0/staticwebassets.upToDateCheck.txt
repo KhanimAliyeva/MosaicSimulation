@@ -1041,3 +1041,4 @@ wwwroot\assets\scss\bootstrap\_type.scss
 wwwroot\assets\scss\bootstrap\_utilities.scss
 wwwroot\assets\scss\bootstrap\_variables.scss
 wwwroot\assets\scss\style.scss
+wwwroot\assets\images\f0a5e1c1-8f60-435c-9ec6-066f853c65f3staff-4.jpg

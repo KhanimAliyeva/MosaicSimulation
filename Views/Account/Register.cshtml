@@ -1,0 +1,46 @@
+﻿@using Simulation_16.ViewModels.UserVm
+@model RegisterVM
+<br />
+<br />
+<br />
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-4">
+            <form>
+                <div class="mb-3">
+                    <label asp-for="Fullname" class="form-label">Full Name</label>
+                    <input asp-for="Fullname" class="form-control">
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Username" class="form-label">Username</label>
+                    <input asp-for="Username" class="form-control">
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label">Email address</label>
+                    <input asp-for="Email" class="form-control">
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label">Password</label>
+                    <input asp-for="Password" type="password" class="form-control">
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="CheckPassword" class="form-label">Confirm Password</label>
+                    <input asp-for="CheckPassword" type="password" class="form-control">
+                </div>
+
+                <button type="submit" class="btn btn-primary w-100">Register</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+<br />
+
+
+

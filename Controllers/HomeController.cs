@@ -1,16 +1,28 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Simulation_16.Context;
 using Simulation_16.Models;
+using Simulation_16.ViewModels.EmployeeVM;
 
 namespace Simulation_16.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(AppDbContext _context) : Controller
     {
       
 
-        public IActionResult Index()
+        public async Task<IActionResult> IndexAsync()
         {
-            return View();
+            var employees = await _context.Employees.Select(employee => new EmployeeGetVM
+            {
+                Id = employee.Id,
+                Name = employee.Name,
+                Description = employee.Description,
+                Experience = employee.Experience,
+                BranchName = employee.Branch.Name,
+                ImageUrl = employee.ImageUrl
+            }).ToListAsync();
+            return View(employees);
         }
 
         

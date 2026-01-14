@@ -1,53 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\visual studio 2025\\Simulation-16\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\views\\branch\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\branch\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\views\\branch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\branch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\simulation-16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:simulation-16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\viewmodels\\employeevm\\employeegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\MosaicMpa201\\Migrations\\20260114111529_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260114111529_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\employeevm\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\simulation-16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:simulation-16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\viewmodels\\employeevm\\employeegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\employeevm\\employeegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|d:\\visual studio 2025\\simulation-16\\viewmodels\\employeevm\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|c:\\users\\student\\desktop\\mosaicmpa201\\viewmodels\\employeevm\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEBFB9FF-1EE2-4DE1-A214-F6F4BD4DC3A8}|Simulation-16.csproj|solutionrelative:viewmodels\\employeevm\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,19 +122,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:30:14.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKYBAAAAAAAAAADwv8kBAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T07:50:30.322Z",
+              "WhenOpened": "2026-01-14T12:24:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Branch\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Branch\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Branch\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Branch\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T12:21:00.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T12:05:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T12:05:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BranchController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T11:37:41.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\UserVm\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserVm\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\UserVm\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\UserVm\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:40:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T10:39:38.602Z",
               "EditorCaption": ""
             },
             {
@@ -79,138 +234,263 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T07:41:33.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T05:37:31.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T04:06:02.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T03:53:50.689Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T03:45:35.128Z"
+              "WhenOpened": "2026-01-14T03:45:35.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAkwMUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T03:45:32.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T03:53:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T07:41:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:14:09.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T10:39:14.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\UserVm\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserVm\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\UserVm\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\UserVm\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:40:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260114111529_1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Migrations\\20260114111529_1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260114111529_1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Migrations\\20260114111529_1.cs",
+              "RelativeToolTip": "Migrations\\20260114111529_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T11:15:29.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:29:49.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T10:35:49.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:15:15.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:21:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T05:37:31.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T07:50:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T04:06:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Helpers\\ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Helpers\\ExtensionMethods.cs",
               "RelativeDocumentMoniker": "Helpers\\ExtensionMethods.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Helpers\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Helpers\\ExtensionMethods.cs",
               "RelativeToolTip": "Helpers\\ExtensionMethods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T04:31:03.621Z"
+              "WhenOpened": "2026-01-14T04:31:03.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "EmployeeUpdateVM.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
               "RelativeToolTip": "ViewModels\\EmployeeVM\\EmployeeUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T03:41:12.347Z"
+              "WhenOpened": "2026-01-14T03:41:12.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "Simulation-16.csproj",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\Simulation-16.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Simulation-16.csproj",
               "RelativeDocumentMoniker": "Simulation-16.csproj",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\Simulation-16.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\Simulation-16.csproj",
               "RelativeToolTip": "Simulation-16.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-14T04:30:49.298Z"
+              "WhenOpened": "2026-01-14T04:30:49.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "EmployeeCreateVm.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
               "RelativeToolTip": "ViewModels\\EmployeeVM\\EmployeeCreateVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T03:35:50.138Z"
+              "WhenOpened": "2026-01-14T03:35:50.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "EmployeeGetVM.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-16\\ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MosaicMpa201\\ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
               "RelativeToolTip": "ViewModels\\EmployeeVM\\EmployeeGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T03:35:09.28Z"
+              "WhenOpened": "2026-01-14T03:35:09.28Z",
+              "EditorCaption": ""
             }
           ]
         }

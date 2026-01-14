@@ -1,0 +1,37 @@
+﻿@using Simulation_16.Models
+@using Simulation_16.ViewModels.EmployeeVM
+@model List<Branch>
+
+<div class="container">
+    <div class="row">
+        <div class="row">
+            <a asp-action="Create" class="btn btn-primary">Create Branch</a>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var branch in Model)
+                {
+                    <tr>
+                        <th scope="row">@branch.Id</th>
+                        <td>@branch.Name</td>
+                       
+                        <td>
+                            <a asp-action="Update" asp-route-id="@branch.Id" class="btn btn-warning">Update</a>
+                            <a asp-action="Delete" asp-route-id="@branch.Id" class="btn btn-danger">Delete</a>
+                        </td>
+
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
